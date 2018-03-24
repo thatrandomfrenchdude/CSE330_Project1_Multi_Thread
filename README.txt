@@ -2,6 +2,6 @@ This program creates five sample threads and runs them one at a time with a glob
 
 q.h contains the queue functions.
 
-tab.h contains the thread control block functions.
+tcb.h contains the thread control block functions.
 
 threads.h contains the thread functions.
